@@ -1,0 +1,3 @@
+[submodule "zecproxy"]
+	path = zecproxy
+	url = https://github.com/BScrk/zecproxy.git
